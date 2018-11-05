@@ -1,0 +1,11 @@
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Presentation\Nop.Web\Plugins\DiscountRules.HadSpentAmount\Views\DiscountRulesHadSpentAmount\Configure.cshtml
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Presentation\Nop.Web\Plugins\DiscountRules.HadSpentAmount\Description.txt
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Presentation\Nop.Web\Plugins\DiscountRules.HadSpentAmount\web.config
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Presentation\Nop.Web\Plugins\DiscountRules.HadSpentAmount\logo.jpg
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Presentation\Nop.Web\Plugins\DiscountRules.HadSpentAmount\Nop.Plugin.DiscountRules.HadSpentAmount.dll.config
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Presentation\Nop.Web\Plugins\DiscountRules.HadSpentAmount\Nop.Plugin.DiscountRules.HadSpentAmount.dll
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Presentation\Nop.Web\Plugins\DiscountRules.HadSpentAmount\Nop.Plugin.DiscountRules.HadSpentAmount.pdb
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Plugins\Nop.Plugin.DiscountRules.HadSpentAmount\obj\Debug\Nop.Plugin.DiscountRules.HadSpentAmount.csprojAssemblyReference.cache
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Plugins\Nop.Plugin.DiscountRules.HadSpentAmount\obj\Debug\Nop.Plugin.DiscountRules.HadSpentAmount.csproj.CoreCompileInputs.cache
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Plugins\Nop.Plugin.DiscountRules.HadSpentAmount\obj\Debug\Nop.Plugin.DiscountRules.HadSpentAmount.dll
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Plugins\Nop.Plugin.DiscountRules.HadSpentAmount\obj\Debug\Nop.Plugin.DiscountRules.HadSpentAmount.pdb

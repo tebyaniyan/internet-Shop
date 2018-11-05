@@ -1,0 +1,11 @@
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Views\DiscountRulesHasOneProduct\Configure.cshtml
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Description.txt
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\web.config
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Views\DiscountRulesHasOneProduct\ProductAddPopup.cshtml
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\logo.jpg
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Nop.Plugin.DiscountRules.HasOneProduct.dll.config
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Nop.Plugin.DiscountRules.HasOneProduct.dll
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Nop.Plugin.DiscountRules.HasOneProduct.pdb
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Plugins\Nop.Plugin.DiscountRules.HasOneProduct\obj\Debug\Nop.Plugin.DiscountRules.HasOneProduct.csproj.CoreCompileInputs.cache
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Plugins\Nop.Plugin.DiscountRules.HasOneProduct\obj\Debug\Nop.Plugin.DiscountRules.HasOneProduct.dll
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Plugins\Nop.Plugin.DiscountRules.HasOneProduct\obj\Debug\Nop.Plugin.DiscountRules.HasOneProduct.pdb

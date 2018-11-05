@@ -1,0 +1,6 @@
+E:\SODG\SOGroupProjects\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Libraries\ValidationConfig\bin\Release\ValidationConfig.dll.config
+E:\SODG\SOGroupProjects\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Libraries\ValidationConfig\bin\Release\ValidationConfig.dll
+E:\SODG\SOGroupProjects\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Libraries\ValidationConfig\bin\Release\ValidationConfig.pdb
+E:\SODG\SOGroupProjects\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Libraries\ValidationConfig\obj\Release\ValidationConfig.csprojResolveAssemblyReference.cache
+E:\SODG\SOGroupProjects\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Libraries\ValidationConfig\obj\Release\ValidationConfig.dll
+E:\SODG\SOGroupProjects\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Libraries\ValidationConfig\obj\Release\ValidationConfig.pdb

@@ -1,0 +1,11 @@
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Views\PaymentPurchaseOrder\Configure.cshtml
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Views\PaymentPurchaseOrder\PaymentInfo.cshtml
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\web.config
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Description.txt
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\logo.jpg
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.dll.config
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.dll
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.pdb
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.csproj.CoreCompileInputs.cache
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.dll
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.pdb

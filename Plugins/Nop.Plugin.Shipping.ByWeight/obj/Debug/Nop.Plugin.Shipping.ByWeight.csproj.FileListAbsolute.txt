@@ -1,0 +1,14 @@
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Views\ShippingByWeight\Configure.cshtml
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Views\ShippingByWeight\EditPopup.cshtml
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Views\ShippingByWeight\_CreateOrUpdate.cshtml
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Views\ShippingByWeight\AddPopup.cshtml
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Presentation\Nop.Web\Plugins\Shipping.ByWeight\web.config
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Description.txt
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Presentation\Nop.Web\Plugins\Shipping.ByWeight\logo.jpg
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Nop.Plugin.Shipping.ByWeight.dll.config
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Nop.Plugin.Shipping.ByWeight.dll
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Nop.Plugin.Shipping.ByWeight.pdb
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Plugins\Nop.Plugin.Shipping.ByWeight\obj\Debug\Nop.Plugin.Shipping.ByWeight.csprojAssemblyReference.cache
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Plugins\Nop.Plugin.Shipping.ByWeight\obj\Debug\Nop.Plugin.Shipping.ByWeight.csproj.CoreCompileInputs.cache
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Plugins\Nop.Plugin.Shipping.ByWeight\obj\Debug\Nop.Plugin.Shipping.ByWeight.dll
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Plugins\Nop.Plugin.Shipping.ByWeight\obj\Debug\Nop.Plugin.Shipping.ByWeight.pdb

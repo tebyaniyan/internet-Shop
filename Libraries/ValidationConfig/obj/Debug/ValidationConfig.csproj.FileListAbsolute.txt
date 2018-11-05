@@ -1,0 +1,17 @@
+E:\SODG\SOGroupProjects\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Libraries\ValidationConfig\bin\Debug\ValidationConfig.dll.config
+E:\SODG\SOGroupProjects\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Libraries\ValidationConfig\bin\Debug\ValidationConfig.dll
+E:\SODG\SOGroupProjects\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Libraries\ValidationConfig\bin\Debug\ValidationConfig.pdb
+E:\SODG\SOGroupProjects\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Libraries\ValidationConfig\obj\Debug\ValidationConfig.dll
+E:\SODG\SOGroupProjects\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Libraries\ValidationConfig\obj\Debug\ValidationConfig.pdb
+E:\SODG\SOGroupProjects\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Libraries\ValidationConfig\obj\Debug\ValidationConfig.csprojResolveAssemblyReference.cache
+D:\SODG\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Libraries\ValidationConfig\bin\Debug\ValidationConfig.dll.config
+D:\SODG\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Libraries\ValidationConfig\bin\Debug\ValidationConfig.dll
+D:\SODG\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Libraries\ValidationConfig\bin\Debug\ValidationConfig.pdb
+D:\SODG\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Libraries\ValidationConfig\obj\Debug\ValidationConfig.dll
+D:\SODG\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Libraries\ValidationConfig\obj\Debug\ValidationConfig.pdb
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Libraries\ValidationConfig\bin\Debug\ValidationConfig.dll.config
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Libraries\ValidationConfig\bin\Debug\ValidationConfig.dll
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Libraries\ValidationConfig\bin\Debug\ValidationConfig.pdb
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Libraries\ValidationConfig\obj\Debug\ValidationConfig.csproj.CoreCompileInputs.cache
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Libraries\ValidationConfig\obj\Debug\ValidationConfig.dll
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Libraries\ValidationConfig\obj\Debug\ValidationConfig.pdb

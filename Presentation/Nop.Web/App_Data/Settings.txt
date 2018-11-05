@@ -1,0 +1,2 @@
+DataProvider: sqlserver
+DataConnectionString: Data Source=.\MSSQLSERVER2017;Initial Catalog=OrginalNopCommerce;Integrated Security=False;Persist Security Info=False;User ID=alireza;Password=1

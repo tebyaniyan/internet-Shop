@@ -1,0 +1,11 @@
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Tests\Nop.Tests\bin\Debug\Nop.Tests.dll
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Tests\Nop.Tests\bin\Debug\Nop.Tests.pdb
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Tests\Nop.Tests\bin\Debug\nunit.framework.dll
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Tests\Nop.Tests\bin\Debug\Rhino.Mocks.dll
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Tests\Nop.Tests\bin\Debug\nunit.framework.xml
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Tests\Nop.Tests\bin\Debug\Rhino.Mocks.xml
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Tests\Nop.Tests\obj\Debug\Nop.Tests.csprojAssemblyReference.cache
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Tests\Nop.Tests\obj\Debug\Nop.Tests.csproj.CoreCompileInputs.cache
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Tests\Nop.Tests\obj\Debug\Nop.Tests.csproj.CopyComplete
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Tests\Nop.Tests\obj\Debug\Nop.Tests.dll
+D:\SODG2\SOGroupProjects\SODGP\Shop\NopCommerce\Project\BikeShop\Tests\Nop.Tests\obj\Debug\Nop.Tests.pdb

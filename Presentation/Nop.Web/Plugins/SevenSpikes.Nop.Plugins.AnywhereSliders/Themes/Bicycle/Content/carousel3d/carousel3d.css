@@ -1,0 +1,67 @@
+﻿
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+
+	JQUERY CAROUSEL 3D SLIDER
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+.pjcaroumain
+{
+       position: relative;
+    right: 0;
+    left: 0;
+}
+#WidgetSlider-home_page_top-1 > div{
+        position: absolute !important;
+    width: 100% !important;
+    height: 100% !important;
+    display: block !important;
+}
+
+#pj_carouselno div
+{
+    margin-top: 0px;
+}
+img.cloudcarousel
+{
+    border: 2px solid #62d3e8;
+    margin-left:20px;
+}
+#pjncarrows #but1
+{
+    background: url('images/arrow_l.png');
+    cursor: pointer;
+}
+#pjncarrows #but2
+{
+    background: url('images/arrow_r.png');
+    cursor: pointer;
+    top: 140px;
+    right: 0px;
+    height: 91px;
+    width: 55px;
+    position: absolute;
+}
+#pjncarrows #but1:hover
+{
+    background-position: bottom;
+}
+#pjncarrows #but2:hover
+{
+    background-position: bottom;
+}
+.carouselLeft
+{
+    top: 140px;
+    left: 0px;
+    height: 91px;
+    width: 55px;
+    position: absolute;
+}
+.carouselRight
+{
+    top: 140px;
+    right: 0px;
+    height: 91px;
+    width: 55px;
+    position: absolute;
+}
